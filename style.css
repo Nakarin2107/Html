@@ -1,0 +1,53 @@
+html, body{
+    background-color: rgb(253, 222, 222);
+    margin: 0;
+    padding: 0;
+}
+
+
+.top-header{
+    background-color: rgb(34, 31, 31);
+}
+
+
+.menu-item {
+    color: white;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.brand {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.main-content {
+    max-width: 700px;
+    margin: auto;
+}
+
+.box {
+    background-color: rgb(247, 245, 245);
+    padding: 20px;
+    margin: 30;
+}
+
+.image {
+    width: 100%;
+}
+
+.button {
+    color: black;
+    background-color: rgb(190, 170, 170);
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+.bottom-footer {
+    background-color: rgb(110, 104, 104);
+    padding: 20px;
+    text-align: center;    
+}
